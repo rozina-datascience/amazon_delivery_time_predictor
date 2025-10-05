@@ -182,5 +182,5 @@ Rozina Mohsin Pathan
 Data Analyst | ML Enthusiast | Streamlit Developer
 📧 Email: [rozina8617@gmail.com
 ]
-🌐 GitHub: https://github.com/your-username
+🌐 GitHub:https://github.com/rozina-datascience
 
